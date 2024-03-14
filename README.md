@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Cristofeo</h1>
+<h1 align="center">Hi 👋, I'm Cristofep</h1>
 <h3 align="center">A passionate full stack web developer</h3>
 
 - 🔭 I’m currently working on [project--python-flask-web](https://github.com/CristofepSr/project--python-flask-web)
