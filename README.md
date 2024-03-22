@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [project--python-flask-web](https://github.com/CristofepSr/project--python-flask-web)
   
-- 🔭 I'm working on this new project [project--python-flask-web](https://github.com/CristofepSr/Flask-Google-Search-Clone)
+- 🔭 I'm working on this new project [Flask-Google-Search-Clone](https://github.com/CristofepSr/Flask-Google-Search-Clone)
 
 - 👨‍💻 All of my projects are available at [https://github.com/CristofepSr](https://github.com/CristofepSr)
 
