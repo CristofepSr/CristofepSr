@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Cristofep</h1>
 <h3 align="center">A passionate full stack web developer</h3>
 
-- 🔭 I’m currently working on [project--python-flask-web](https://github.com/CristofepSr/project--python-flask-web)
-  
-
-- 👨‍💻 All of my projects are available at [https://github.com/CristofepSr](https://github.com/CristofepSr)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://stackoverflow.com/users/23370349" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="23370349" height="30" width="40" /></a>
